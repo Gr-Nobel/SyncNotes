@@ -11,8 +11,12 @@
             "id": "76bb5d34474ce6b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -143,6 +147,6 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "14abac11dcb83a1d",
+  "active": "56b2ca4dd83f4ff3",
   "lastOpenFiles": []
 }
