@@ -144,9 +144,6 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "56b2ca4dd83f4ff3",
   "lastOpenFiles": []
 }
