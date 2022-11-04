@@ -4,4 +4,4 @@ tested it on pc.
 Now having trouble when using obsidian mobile.
 
 nothing is working on mobile.
-th;e mpv scripts are added here.
+**th;e mpv scripts are added here.**
